@@ -1,0 +1,12 @@
+.container {
+  text-align: center;
+}
+.container .row .textBox .box {
+  height: 250px;
+}
+body {
+  cursor: pointer;
+}
+.container .row .title {
+  padding-top: 50px;
+}
